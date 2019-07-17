@@ -1,4 +1,4 @@
-# xr_admin
+# vue项目开发模板，原文地址 https://juejin.im/post/5b29c3bde51d45588d4d7110#heading-30
 
 > xrcloud console
 
